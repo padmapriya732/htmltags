@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.box{
+    width:100%;
+    height:80%;
+    display:flex;
+    justify-content: center;
+    background-image: url(pot.jpg);
+}
+
+#submit{
+   width: 10%;
+   border-radius: 20px;
+   background-color: goldenrod; 
+
+}
+
+#clear{
+    width:10%;
+    border-radius: 20px;
+    background-color: deeppink;
+}
+
+h1{
+ background-color: blueviolet;
+ color: ghostwhite;
+}
+
+h2{
+color: rgb(85, 19, 218);
+}
+
+h3{
+color: black;
+}
+
+h4{
+background-color: darkcyan;
+}
+
+h5{
+color: indigo;
+}
+
+h6{
+color: limegreen;
+}
+
